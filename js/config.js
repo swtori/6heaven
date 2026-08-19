@@ -8,6 +8,7 @@ window.SIXHEAVEN = {
   social: {
     discord: "",
     instagram: "",
+    tiktok: "https://www.tiktok.com/@6heaven",
     reddit: "",
   },
 };
